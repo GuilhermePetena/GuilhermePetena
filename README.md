@@ -31,7 +31,7 @@ I'm a Backend Developer 🖥 (˘◡˘)
   <img max-width: 100% src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermePetena&&layout=compact&hide=shell&theme=dracula"/>
 </div>
   
- ![Snake animation](https://github.com/wallanpsantos/wallanpsantos/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/GuilhermePetena/GuilhermePetena/blob/output/github-contribution-grid-snake.svg)
   
 
 # 🤝🏻  <a href="https://www.linkedin.com/in/guilherme-petena/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
